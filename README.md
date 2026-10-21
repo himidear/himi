@@ -1,6 +1,6 @@
 hi, i'm himi! (๑>؂•̀๑)
 
-୨୧ aspiring cybersecurity student, student
+୨୧ aspiring cybersecurity student
 
 ## ✦ currently exploring
 
