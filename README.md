@@ -11,4 +11,8 @@ hi, i'm himi! (๑>؂•̀๑)
 
 ## ✦ goals
 
-study cybersecurity and build a career in defending people online.
+study cybersecurity and build a career in defending people online
+
+## ✦ contact
+
+hello.himi@proton.me
