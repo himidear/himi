@@ -1,4 +1,4 @@
-# hi, i'm himi! (๑>؂•̀๑)
+hi, i'm himi! (๑>؂•̀๑)
 
 ୨୧ aspiring cybersecurity student, student
 
