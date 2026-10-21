@@ -1,14 +1,14 @@
-hi, i'm himi! (๑>؂•̀๑)
+# hi, i'm himi! (๑>؂•̀๑)
 
 ୨୧ aspiring cybersecurity student, learning the fundamentals
 
-✦ currently exploring
+## ✦ currently exploring
 
--  python 
--  linux & networking
--  cybersecurity
--  online safety 
+- python
+- linux & networking
+- cybersecurity
+- online safety
 
-✦ goals
+## ✦ goals
 
 study cybersecurity and build a career in defending people online.
